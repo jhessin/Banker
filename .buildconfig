@@ -1,0 +1,11 @@
+[default]
+name=Default
+runtime=podman:b29a9ce1146965c22791a4f8454817f64d51a5e1e3c19fc8de1b99939561244c
+toolchain=default
+config-opts=
+run-opts=
+prefix=/var/home/jhessin/.var/app/org.gnome.Builder/cache/gnome-builder/install/banker/podman:b29a9ce1146965c22791a4f8454817f64d51a5e1e3c19fc8de1b99939561244c
+app-id=
+postbuild=
+prebuild=
+default=true
